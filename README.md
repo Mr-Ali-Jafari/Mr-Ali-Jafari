@@ -19,6 +19,7 @@
 - Docker
 
 # FrontEnd - Skill:
+react.js
 - Bootstrap 5.3
 - Html
 - Css
