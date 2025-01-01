@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about **Ai Tools**
 
-- 👨‍💻 All of my projects are available at https://mr-ali-jafari.github.io/portfolio/
+- 👨‍💻 All of my projects are available at https://mr-ali-jafari.github.io/portfolio/html/
 
 - 💬 Ask me about **Fastapi , DRF , OPEN-CV , PYTHON 3**
 
