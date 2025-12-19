@@ -1,5 +1,5 @@
 <h1 align="center">Hello Dear who am i? Ali Jafari</h1>
-<h3 align="center">A Backend Developer From IRAN</h3>
+<h3 align="center">a Developer From IRAN</h3>
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/169084913?s=128&v=4" alt="mr-ali-jafari" /> </p>
 
@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **kharazmi-project-ai**
 
 - 🌱 I’m currently learning about **Ai Tools**
 
-- 👨‍💻 All of my projects are available at https://mr-ali-jafari.github.io/portfolio/html/
+- 👨‍💻 All of my projects are available at https://ali-folio.ir
 
 - 💬 Ask me about **MachineLearning , FastApi , OPEN-CV , PYTHON 3**
 
